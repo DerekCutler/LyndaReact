@@ -62,8 +62,3 @@ class Note extends Component {
 }
 
 export default Note
-
-
-
-
-
